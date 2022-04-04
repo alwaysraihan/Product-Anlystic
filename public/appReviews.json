@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "1",
+    "author": "Raihan Sarkar",
+    "img": " ",
+    "text": "I think  display resulation and desgin is just mindblowing! Amazing people I will recomended to you try this apple tv.",
+    "rating": 5,
+    "created": "2-05-2022"
+  },
+  {
+    "_id": "1",
+    "author": "Oiliam Tiks",
+    "img": " ",
+    "text": "I feel so better when I watching apple tv. It's look like i'm in real world . Display view is supperb!",
+    "rating": 4.5,
+    "created": "06-04-2022"
+  },
+  {
+    "_id": "1",
+    "author": "Krimson Harry",
+    "img": " ",
+    "text": " Everything is okay. But I think the price should be decrease. Price range is so huge.",
+    "rating": 5,
+    "created": "03-04-2022"
+  },
+  {
+    "_id": "4",
+    "author": "Talha Ena",
+    "img": " ",
+    "text": "I tried this place last week and it was incredible! Amazing selection of local and imported brews and the food is to die for!",
+    "rating": 5,
+    "created": "2-6-2022"
+  },
+  {
+    "_id": "5",
+    "author": "Daniel Reechy",
+    "img": " ",
+    "text": "Everything is okay. But I think the price should be decrease. Price range is so huge.",
+    "rating": 4.3,
+    "created": "23-04-2022"
+  },
+  {
+    "_id": "6",
+    "author": "Sabrina Khanam",
+    "img": " ",
+    "text": "I am so happy to buy this apple tv. Display resulatin and view are absulately awesome ",
+    "rating": 5,
+    "created": "04-15-2022"
+  }
+
+]
