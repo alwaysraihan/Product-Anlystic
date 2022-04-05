@@ -9,6 +9,7 @@ In this apple 4k  + tv website I showcase a apple tv product. And also added blo
 * React Router 
 * Tailwind Css 
 * Recharts
+* Three js
 
 ## Features
 
