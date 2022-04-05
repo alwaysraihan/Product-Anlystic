@@ -6,10 +6,10 @@ import { useNavigate } from "react-router-dom";
 
 const Home = () => {
   const [reviews] = useReviews();
-  const navigrate = useNavigate()
-  const seeAllReviews = ()=>{
-      navigrate('/reviews')
-  }
+  const navigrate = useNavigate();
+  const seeAllReviews = () => {
+    navigrate("/reviews");
+  };
   return (
     <>
       <div className="home-container my-24 flex justify-center flex-col md:flex-row items-center px-[10%] xl:px-[15%]   gap-[5%] md:grid-cols-2">
@@ -18,8 +18,7 @@ const Home = () => {
             All Apple Originals.
           </h1>
           <h1 className="text-blue-600 my-3 md:my-5 text-4xl  xl:text-5xl font-bold">
-            {" "}
-            on Apple TV+
+            On Apple TV+
           </h1>
           <p>
             Apple TV 4K (2nd generation) brings the best of TV together with
@@ -39,7 +38,7 @@ const Home = () => {
       </div>
       {/* Reviews section   */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-3 md:gap-[5%] my-16 px-3 md:px-[10%] lg:px-[15%]">
-        {reviews.slice(0,3).map((review) => (
+        {reviews.slice(0, 3).map((review) => (
           <div
             key={review._id}
             className="border-0 rounded shadow-xl  shadow-gray-300   grid items-center p-5 justify-center hover:shadow-gray-400 relative transition-all delay-75 ease-in-out pb-5"
@@ -62,7 +61,10 @@ const Home = () => {
         ))}
       </div>
       <div className="flex justify-center items-center mb-10">
-        <button onClick={seeAllReviews} className="px-4 py-2 text-xl bg-blue-600 rounded cursor-pointer text-white">
+        <button
+          onClick={seeAllReviews}
+          className="px-4 py-2 text-xl bg-blue-600 rounded cursor-pointer text-white"
+        >
           See all reviews
         </button>
       </div>
