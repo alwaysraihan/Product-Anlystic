@@ -12,6 +12,11 @@ const Home = () => {
   };
   return (
     <>
+    <div className=" flex justify-between items-center px-[5%] bg-slate-50 py-2">
+      <h1 className="text-xl font-bold">Apple 4k+ Tv</h1>
+      <h1 className="text-xl text-gray-600">From $999 or $41.62/mo. before trade-in*</h1>
+    </div>
+    <hr />
       <div className="home-container my-24 flex justify-center flex-col md:flex-row items-center px-[10%] xl:px-[15%]   gap-[5%] md:grid-cols-2">
         <div className="left-side md:w-[50%] order-1">
           <h1 className="text-4xl xl:text-5xl font-bold">
