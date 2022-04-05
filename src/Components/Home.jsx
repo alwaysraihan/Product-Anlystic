@@ -5,7 +5,7 @@ import useReviews from "../hooks/useReviews";
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
-  const [reviews, setReviews] = useReviews();
+  const [reviews] = useReviews();
   const navigrate = useNavigate()
   const seeAllReviews = ()=>{
       navigrate('/reviews')

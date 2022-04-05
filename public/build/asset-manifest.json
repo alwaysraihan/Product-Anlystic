@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a56232a7.css",
+    "main.js": "/static/js/main.a1a163d0.js",
+    "static/media/apple-tv.png": "/static/media/apple-tv.396a8f60874b1ab90322.png",
+    "static/media/error.gif": "/static/media/error.29b5a7528117b99b9657.gif",
+    "static/media/apple-logo.svg": "/static/media/apple-logo.2055b3e5cab0bb44e19a66095eb2157a.svg",
+    "index.html": "/index.html",
+    "main.a56232a7.css.map": "/static/css/main.a56232a7.css.map",
+    "main.a1a163d0.js.map": "/static/js/main.a1a163d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56232a7.css",
+    "static/js/main.a1a163d0.js"
+  ]
+}
