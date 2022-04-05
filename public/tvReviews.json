@@ -1,14 +1,14 @@
 [
   {
     "_id": "1",
-    "author": "Raihan Sarkar",
-    "img": "https://cdn.pixabay.com/photo/2016/11/21/14/53/man-1845814__340.jpg",
-    "text": "I think  display resulation and desgin is just mindblowing! Amazing people I will recomended to you try this apple tv.",
+    "author": "Sabrina Khanam",
+    "img": "https://cdn.pixabay.com/photo/2018/01/17/07/06/laptop-3087585__340.jpg",
+    "text": "I am so happy to buy this apple tv. Display resulatin and view are absulately awesome ",
     "rating": 5,
-    "created": "2-05-2022"
+    "created": "04-15-2022"
   },
   {
-    "_id": "1",
+    "_id": "2",
     "author": "Oiliam Tiks",
     "img": "https://cdn.pixabay.com/photo/2017/11/02/14/26/model-2911330__340.jpg",
     "text": "I feel so better when I watching apple tv. It's look like i'm in real world . Display view is supperb!",
@@ -16,7 +16,7 @@
     "created": "06-04-2022"
   },
   {
-    "_id": "1",
+    "_id": "3",
     "author": "Krimson Harry",
     "img": "https://cdn.pixabay.com/photo/2017/05/19/12/38/entrepreneur-2326419__340.jpg",
     "text": " Everything is okay. But I think the price should be decrease. Price range is so huge.",
@@ -41,11 +41,10 @@
   },
   {
     "_id": "6",
-    "author": "Sabrina Khanam",
-    "img": "https://cdn.pixabay.com/photo/2018/01/17/07/06/laptop-3087585__340.jpg",
-    "text": "I am so happy to buy this apple tv. Display resulatin and view are absulately awesome ",
+    "author": "Raihan Sarkar",
+    "img": "https://cdn.pixabay.com/photo/2016/11/21/14/53/man-1845814__340.jpg",
+    "text": "I think  display resulation and desgin is just mindblowing! Amazing people I will recomended to you try this apple tv.",
     "rating": 5,
-    "created": "04-15-2022"
+    "created": "2-05-2022"
   }
-
 ]
