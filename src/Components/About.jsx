@@ -75,6 +75,7 @@ const About = () => {
                 enablePan={true}
                 enableZoom={true}
                 enableRotate={true}
+                autoRotate={true}
               />
             </Suspense>
           </Canvas>

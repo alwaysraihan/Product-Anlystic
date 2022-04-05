@@ -5,7 +5,7 @@ import { XIcon, MenuIcon } from "@heroicons/react/solid";
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <header className="bg-black  h-[44px] px-[10%] flex justify-between items-center text-white ">
+    <header className="bg-black  h-[44px] px-[10%] flex justify-between items-center text-white uppercase ">
       <img src={logo} alt="" />
       <nav
         className={`flex gap-6 md:gap-16 justify-between md:justify-end items-center absolute w-full md:static flex-col md:flex-row transition delay-200 ease-in-out  z-10 bg-black ${

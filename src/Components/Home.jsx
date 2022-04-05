@@ -44,6 +44,9 @@ const Home = () => {
         </div>
       </div>
       {/* Reviews section   */}
+      <h1 className="text-3xl text-center my-10 font-bold">
+        Customers reviews
+      </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-3 md:gap-[5%] my-16 px-3 md:px-[10%] lg:px-[15%]">
         {reviews.slice(0, 3).map((review) => (
           <div
@@ -70,7 +73,7 @@ const Home = () => {
       <div className="flex justify-center items-center mb-10">
         <button
           onClick={seeAllReviews}
-          className="px-4 py-2 text-xl bg-blue-600 rounded cursor-pointer text-white"
+          className="px-4 py-2 text-xl bg-blue-600 rounded cursor-pointer text-white hover:bg-blue-500"
         >
           See all reviews
         </button>
